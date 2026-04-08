@@ -1,0 +1,5 @@
+data/
+real_project/data/
+*.csv
+*.zip
+*.h5
